@@ -59,6 +59,7 @@ My goal is simple: create technology that doesn't just work, but makes people's 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aryavansh19/aryavansh19/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/aryavansh19/aryavansh19/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ## 💭 Random Dev Quote
