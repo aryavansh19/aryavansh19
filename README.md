@@ -1,9 +1,4 @@
-<!-- ANIMATED HEADER WITH GRADIENT WAVE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&section=header&text=Aryavansh%20Saini&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
-</p>
 
-<!-- DYNAMIC TYPING ANIMATION -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B9D&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aryavansh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8;Welcome+to+My+Digital+Playground+%F0%9F%8C%9F" alt="Dynamic Typing" />
 </h1>
@@ -18,7 +13,6 @@
 ---
 
 ## 🎯 About Me
-
 Hey there! I'm **Aryavansh Saini**, a passionate Full Stack Developer from India 🇮🇳 who loves turning ideas into reality through code. My journey in tech is driven by a fascination with **AI and automation** - I believe technology should make our lives easier and more magical.
 
 When I'm not coding, you'll find me exploring the latest tech innovations, working on automation tools that feel like magic, or jamming to lo-fi beats while building something awesome. I'm currently diving deep into **Machine Learning** and **Cloud Technologies**, always eager to learn and implement cutting-edge solutions.
@@ -36,7 +30,6 @@ My goal is simple: create technology that doesn't just work, but makes people's 
 ---
 
 ## 🛠️ Tech Arsenal
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,dart,react,html,css,tailwind,bootstrap,materialui&theme=dark&perline=12" height="50" />
 </p>
@@ -48,8 +41,6 @@ My goal is simple: create technology that doesn't just work, but makes people's 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,docker,vercel,tensorflow,pytorch,aws,gcp&theme=dark&perline=7" height="50" />
 </p>
-
----
 
 ## 📊 GitHub Analytics
 
@@ -66,7 +57,6 @@ My goal is simple: create technology that doesn't just work, but makes people's 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryavansh19&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF" width="100%" />
 </p>
 
----
 
 ## 🏆 GitHub Trophies
 
@@ -74,7 +64,6 @@ My goal is simple: create technology that doesn't just work, but makes people's 
   <img src="https://github-profile-trophy.vercel.app/?username=aryavansh19&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 
----
 
 ## 🎯 Featured Projects
 
@@ -85,15 +74,11 @@ My goal is simple: create technology that doesn't just work, but makes people's 
 
 </div>
 
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aryavansh19/aryavansh19/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
-
----
 
 ## 💭 Random Dev Quote
 
@@ -101,7 +86,6 @@ My goal is simple: create technology that doesn't just work, but makes people's 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
----
 
 ## 🎵 Spotify Playing
 
