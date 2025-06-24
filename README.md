@@ -42,7 +42,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryavanshsaini&layout=compact&theme=radical" width="44%" />
 </p>
 
----
 
 ### 🌐 Connect with Me
 
