@@ -25,18 +25,6 @@ When I'm not coding, you'll find me exploring the latest tech innovations, worki
 
 My goal is simple: create technology that doesn't just work, but makes people's lives genuinely better. Whether it's a sleek web application or an AI-powered automation tool, I pour my passion into every line of code.
 
-```javascript
-const aryavansh = {
-    name: "Aryavansh Saini",
-    role: "Full Stack Developer",
-    location: "India 🇮🇳",
-    passions: ["AI/ML", "Automation", "Web Dev"],
-    currentFocus: "Building AI-powered solutions",
-    funFact: "I turn coffee into code ☕ → 💻",
-    motto: "Making technology feel like magic ✨"
-};
-```
-
 **🚀 Currently:**
 - 🔭 Working on **AI-powered automation tools**
 - 🌱 Learning **Machine Learning** and **Cloud Technologies**
@@ -49,34 +37,16 @@ const aryavansh = {
 
 ## 🛠️ Tech Arsenal
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,dart&theme=dark&perline=6" height="50" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,dart,react,html,css,tailwind,bootstrap,materialui&theme=dark&perline=12" height="50" />
 </p>
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,materialui&theme=dark&perline=6" height="50" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgresql,flutter,androidstudio,kotlin,git,github,vscode&theme=dark&perline=12" height="50" />
 </p>
 
-### ⚡ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgresql&theme=dark&perline=6" height="50" />
-</p>
-
-### 📱 Mobile & Cross-Platform
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin&theme=dark&perline=3" height="50" />
-</p>
-
-### 🔧 Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,vercel&theme=dark&perline=6" height="50" />
-</p>
-
-### 🤖 AI/ML & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws,gcp&theme=dark&perline=4" height="50" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,docker,vercel,tensorflow,pytorch,aws,gcp&theme=dark&perline=7" height="50" />
 </p>
 
 ---
