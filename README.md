@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Aryavansh+👋" alt="Typing SVG" />
 </h1>
 
----
 
 ### 💫 About Me
 
