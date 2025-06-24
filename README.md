@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B9D&center=true&vCenter=true&width=800&lines=Hi there,%2C+I'm+Aryavansh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8;Welcome+to+My+Digital+Playground+%F0%9F%8C%9F" alt="Dynamic Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B9D&center=true&vCenter=true&width=800&lines=Hi there%2C+I'm+Aryavansh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8;Welcome+to+My+Digital+Playground+%F0%9F%8C%9F" alt="Dynamic Typing" />
 </h1>
 
 <!-- PROFILE VIEWS & FOLLOWERS COUNTER -->
