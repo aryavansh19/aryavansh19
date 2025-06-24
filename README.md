@@ -58,13 +58,6 @@ My goal is simple: create technology that doesn't just work, but makes people's 
   <img src="https://raw.githubusercontent.com/aryavansh19/aryavansh19/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
-## 🎵 Spotify Playing
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />
-</p>
-
-
 ## 🌐 Connect & Collaborate
 
 <p align="center">
