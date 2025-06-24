@@ -38,9 +38,11 @@
 ### ⚙️ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryavanshsaini&show_icons=true&theme=radical&hide_title=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryavanshsaini&layout=compact&theme=radical" width="44%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryavansh19&show_icons=true&theme=radical&hide_title=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryavansh19&layout=compact&theme=radical" width="44%" />
 </p>
+
+---
 
 
 ### 🌐 Connect with Me
