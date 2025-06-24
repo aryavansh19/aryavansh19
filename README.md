@@ -44,15 +44,29 @@
 
 ---
 
-### 📡 Connect with Me
+### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryavanshsaini/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:aryavanshsaini@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/aryavanshsaini/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
+  <a href="mailto:aryavanshsaini@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+  </a>
+  <a href="https://instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
+  </a>
+  <a href="https://x.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35"/>
+  </a>
+  <a href="https://aryavansh.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" height="35"/>
+  </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+<!-- FULL WIDTH BOTTOM WAVE -->
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer" width="100%" />
 </p>
