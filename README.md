@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Aryavansh 👋</h1>
 
+<!-- 🌊 Animated SVG Wave Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&color=F77F00&center=true&vCenter=true&width=480&lines=Code.+Automate.+Repeat.;AI+%7C+Automation+%7C+DevTools;Building+cool+things+with+cooler+tech+💻" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Welcome+to+My+World+of+Code!&fontSize=30&fontAlign=50&fontColor=ffffff" />
 </p>
 
 ---
@@ -43,7 +44,6 @@
 </p>
 
 ---
-
 
 ### 🌐 Connect with Me
 
