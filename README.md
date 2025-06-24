@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B9D&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aryavansh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8;Welcome+to+My+Digital+Playground+%F0%9F%8C%9F" alt="Dynamic Typing" />
 </h1>
 
-<!-- PROFILE VIEWS & FOLLOWERS COUNTER -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aryavansh19&style=for-the-badge&color=blueviolet" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/aryavansh19?style=for-the-badge&color=orange&labelColor=282828" alt="Followers" />
@@ -12,8 +11,6 @@
 
 ## 🎯 About Me
 Hey there! I'm **Aryavansh Saini**, a passionate Full Stack Developer from India 🇮🇳 who loves turning ideas into reality through code. My journey in tech is driven by a fascination with **AI and automation** - I believe technology should make our lives easier and more magical.
-
-When I'm not coding, you'll find me exploring the latest tech innovations, working on automation tools that feel like magic, or jamming to lo-fi beats while building something awesome. I'm currently diving deep into **Machine Learning** and **Cloud Technologies**, always eager to learn and implement cutting-edge solutions.
 
 My goal is simple: create technology that doesn't just work, but makes people's lives genuinely better. Whether it's a sleek web application or an AI-powered automation tool, I pour my passion into every line of code.
 
