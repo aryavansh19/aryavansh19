@@ -5,7 +5,7 @@
 
 <!-- DYNAMIC TYPING ANIMATION -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B9D&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8;Welcome+to+My+Digital+Playground+%F0%9F%8C%9F" alt="Dynamic Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B9D&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aryavansh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8;Welcome+to+My+Digital+Playground+%F0%9F%8C%9F" alt="Dynamic Typing" />
 </h1>
 
 <!-- PROFILE VIEWS & FOLLOWERS COUNTER -->
@@ -20,25 +20,6 @@
 ## 🎯 About Me
 
 <img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-```ts
-const aryavansh = {
-  name: "Aryavansh Saini",
-  role: "Full Stack Developer",
-  location: "India 🇮🇳",
-  passions: ["AI/ML", "Automation", "Web Dev"],
-  currentFocus: "Building AI-powered solutions",
-  funFact: "I turn coffee into code ☕ → 💻",
-  motto: "Making technology feel like magic ✨"
-};
-```
-
-- 🔭 Currently working on **AI-powered automation tools**
-- 🌱 Learning **Machine Learning** and **Cloud Technologies**
-- 🎯 Goal: Create solutions that make life easier
-- 💡 Always excited about **new tech innovations**
-- 🎵 Coding soundtrack: **Lo-fi beats & Tech House**
-- 📫 Reach me at: **aryavansh.120@gmail.com**
 
 ---
 
@@ -106,6 +87,17 @@ const aryavansh = {
 
 ---
 
+## 🎯 Featured Projects
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryavansh19&repo=your-repo-name&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/aryavansh19/your-repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryavansh19&repo=another-repo&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/aryavansh19/another-repo)
+
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -142,8 +134,8 @@ const aryavansh = {
   <a href="https://instagram.com/aryavansh.19" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" height="40"/>
   </a>
-  <a href="https://x.com/aryavansh19" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" height="40"/>
+  <a href="https://x.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" height="40"/>
   </a>
   <a href="https://aryavansh.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF6B9D" height="40"/>
