@@ -1,9 +1,7 @@
-<h1 align="center">Hi there, I'm Aryavansh 👋</h1>
-
-<!-- 🌊 Animated SVG Wave Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Welcome+to+My+World+of+Code!&fontSize=30&fontAlign=50&fontColor=ffffff" />
-</p>
+<!-- ✨ Animated Heading -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Aryavansh+👋" alt="Typing SVG" />
+</h1>
 
 ---
 
