@@ -1,6 +1,11 @@
+<!-- ANIMATED HEADER WITH GRADIENT WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&section=header&text=Aryavansh%20Saini&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
+</p>
 
+<!-- DYNAMIC TYPING ANIMATION -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B9D&center=true&vCenter=true&width=800&lines=Hi%2C+there+I'm+Aryavansh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8;Welcome+to+My+Digital+Playground+%F0%9F%8C%9F" alt="Dynamic Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B9D&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aryavansh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8;Welcome+to+My+Digital+Playground+%F0%9F%8C%9F" alt="Dynamic Typing" />
 </h1>
 
 <!-- PROFILE VIEWS & FOLLOWERS COUNTER -->
@@ -14,46 +19,65 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+Hey there! I'm **Aryavansh Saini**, a passionate Full Stack Developer from India 🇮🇳 who loves turning ideas into reality through code. My journey in tech is driven by a fascination with **AI and automation** - I believe technology should make our lives easier and more magical.
+
+When I'm not coding, you'll find me exploring the latest tech innovations, working on automation tools that feel like magic, or jamming to lo-fi beats while building something awesome. I'm currently diving deep into **Machine Learning** and **Cloud Technologies**, always eager to learn and implement cutting-edge solutions.
+
+My goal is simple: create technology that doesn't just work, but makes people's lives genuinely better. Whether it's a sleek web application or an AI-powered automation tool, I pour my passion into every line of code.
+
+```javascript
+const aryavansh = {
+    name: "Aryavansh Saini",
+    role: "Full Stack Developer",
+    location: "India 🇮🇳",
+    passions: ["AI/ML", "Automation", "Web Dev"],
+    currentFocus: "Building AI-powered solutions",
+    funFact: "I turn coffee into code ☕ → 💻",
+    motto: "Making technology feel like magic ✨"
+};
+```
+
+**🚀 Currently:**
+- 🔭 Working on **AI-powered automation tools**
+- 🌱 Learning **Machine Learning** and **Cloud Technologies**
+- 🎯 Building solutions that make life easier
+- 💡 Exploring **new tech innovations**
+- 🎵 Coding to **Lo-fi beats & Tech House**
+- 📫 Always open to collaborate: **aryavansh.120@gmail.com**
 
 ---
 
 ## 🛠️ Tech Arsenal
 
-<details>
-<summary>🚀 <b>Click to expand my tech stack!</b></summary>
-
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,dart&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,dart&theme=dark&perline=6" height="50" />
 </p>
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,materialui&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,materialui&theme=dark&perline=6" height="50" />
 </p>
 
 ### ⚡ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgresql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgresql&theme=dark&perline=6" height="50" />
 </p>
 
 ### 📱 Mobile & Cross-Platform
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin&theme=dark&perline=3" height="50" />
 </p>
 
 ### 🔧 Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,vercel&theme=dark&perline=6" height="50" />
 </p>
 
 ### 🤖 AI/ML & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws,gcp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws,gcp&theme=dark&perline=4" height="50" />
 </p>
-
-</details>
 
 ---
 
