@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/github/stars/aryavansh19?style=for-the-badge&color=yellow&labelColor=282828" alt="Stars" />
 </p>
 
----
-
 ## 🎯 About Me
 Hey there! I'm **Aryavansh Saini**, a passionate Full Stack Developer from India 🇮🇳 who loves turning ideas into reality through code. My journey in tech is driven by a fascination with **AI and automation** - I believe technology should make our lives easier and more magical.
 
@@ -27,7 +25,6 @@ My goal is simple: create technology that doesn't just work, but makes people's 
 - 🎵 Coding to **Lo-fi beats & Tech House**
 - 📫 Always open to collaborate: **aryavansh.120@gmail.com**
 
----
 
 ## 🛠️ Tech Arsenal
 <p align="center">
@@ -93,7 +90,6 @@ My goal is simple: create technology that doesn't just work, but makes people's 
   <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />
 </p>
 
----
 
 ## 🌐 Connect & Collaborate
 
@@ -115,7 +111,6 @@ My goal is simple: create technology that doesn't just work, but makes people's 
   </a>
 </p>
 
----
 
 ## 💖 Support My Work
 
@@ -124,8 +119,6 @@ My goal is simple: create technology that doesn't just work, but makes people's 
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%" />
