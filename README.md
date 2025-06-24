@@ -55,16 +55,6 @@ My goal is simple: create technology that doesn't just work, but makes people's 
   <img src="https://github-profile-trophy.vercel.app/?username=aryavansh19&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryavansh19&repo=ALPHA&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/aryavansh19/ALPHA)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryavansh19&repo=another-repo&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/aryavansh19/another-repo)
-
-</div>
-
 ## 🐍 Contribution Snake
 
 <p align="center">
