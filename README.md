@@ -1,68 +1,182 @@
-<!-- ✨ Animated Heading -->
+<!-- ANIMATED HEADER WITH GRADIENT WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&section=header&text=Aryavansh%20Saini&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
+</p>
+
+<!-- DYNAMIC TYPING ANIMATION -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Aryavansh+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B9D&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8;Welcome+to+My+Digital+Playground+%F0%9F%8C%9F" alt="Dynamic Typing" />
 </h1>
 
-
-### 💫 About Me
-
-- 🎯 Passionate about **automation**, **AI**, and making life easier through code.
-- 🤖 Enjoy working on tools that feel like magic.
-- 🌍 Always exploring new technologies, APIs, and frameworks.
-- 🎧 Code + Music = Perfect Combo.
-
----
-
-### 🛠️ Languages & Tools
-
+<!-- PROFILE VIEWS & FOLLOWERS COUNTER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="60" width="60" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="60" width="60" alt="C++" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="60" width="60" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="60" width="60" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="60" width="60" alt="HTML" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="60" width="60" alt="CSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="60" width="60" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="60" width="60" alt="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" width="60" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" width="60" alt="Firebase" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="60" width="60" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="60" width="60" alt="GitHub" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="60" width="60" alt="VSCode" />
+  <img src="https://komarev.com/ghpvc/?username=aryavansh19&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/aryavansh19?style=for-the-badge&color=orange&labelColor=282828" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/aryavansh19?style=for-the-badge&color=yellow&labelColor=282828" alt="Stars" />
 </p>
 
 ---
 
-### ⚙️ GitHub Analytics
+## 🎯 About Me
+
+<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+```typescript
+const aryavansh = {
+    name: "Aryavansh Saini",
+    role: "Full Stack Developer",
+    location: "India 🇮🇳",
+    passions: ["AI/ML", "Automation", "Web Dev"],
+    currentFocus: "Building AI-powered solutions",
+    funFact: "I turn coffee into code ☕ → 💻",
+    motto: "Making technology feel like magic ✨"
+};
+```
+
+- 🔭 Currently working on **AI-powered automation tools**
+- 🌱 Learning **Machine Learning** and **Cloud Technologies**
+- 🎯 Goal: Create solutions that make life easier
+- 💡 Always excited about **new tech innovations**
+- 🎵 Coding soundtrack: **Lo-fi beats & Tech House**
+- 📫 Reach me at: **aryavansh.120@gmail.com**
+
+---
+
+## 🛠️ Tech Arsenal
+
+<details>
+<summary>🚀 <b>Click to expand my tech stack!</b></summary>
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,dart&theme=dark" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,materialui&theme=dark" />
+</p>
+
+### ⚡ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgresql&theme=dark" />
+</p>
+
+### 📱 Mobile & Cross-Platform
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin&theme=dark" />
+</p>
+
+### 🔧 Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,vercel&theme=dark" />
+</p>
+
+### 🤖 AI/ML & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws,gcp&theme=dark" />
+</p>
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryavansh19&show_icons=true&theme=radical&hide_title=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryavansh19&layout=compact&theme=radical" width="44%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryavansh19&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryavansh19&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=FFFFFF" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryavansh19&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryavansh19&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF" width="100%" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aryavansh19&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryavansh19&repo=your-repo-name&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/aryavansh19/your-repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryavansh19&repo=another-repo&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/aryavansh19/another-repo)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aryavansh19/aryavansh19/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+---
+
+## 💭 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+---
+
+## 🎵 Spotify Playing
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />
+</p>
+
+---
+
+## 🌐 Connect & Collaborate
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryavanshsaini/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="40"/>
   </a>
   <a href="mailto:aryavansh.120@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="40"/>
   </a>
   <a href="https://instagram.com/aryavansh.19" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" height="40"/>
   </a>
   <a href="https://x.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" height="40"/>
   </a>
   <a href="https://aryavansh.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF6B9D" height="40"/>
   </a>
 </p>
 
-<!-- FULL WIDTH BOTTOM WAVE -->
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer" width="100%" />
+---
+
+## 💖 Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/aryavansh19" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%" />
+</p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%AD%90;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Footer" />
+</h3>
