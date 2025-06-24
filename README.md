@@ -1,8 +1,7 @@
 <!-- ✨ Animated Heading -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Aryavansh+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Aryavansh+👋" alt="Typing SVG" />
 </h1>
-
 
 
 ### 💫 About Me
