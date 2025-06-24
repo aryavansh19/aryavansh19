@@ -42,18 +42,15 @@ My goal is simple: create technology that doesn't just work, but makes people's 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryavansh19&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=aryavansh19&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryavansh19&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=FFFFFF" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryavansh19&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryavansh19&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF" width="100%" />
 </p>
-
 
 ## 🏆 GitHub Trophies
 
