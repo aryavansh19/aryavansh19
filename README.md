@@ -42,9 +42,6 @@ My goal is simple: create technology that doesn't just work, but makes people's 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aryavansh19&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" alt="GitHub Streak" />
-</p>
-<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryavansh19&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=FFFFFF" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryavansh19&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF" />
 </p>
@@ -63,7 +60,7 @@ My goal is simple: create technology that doesn't just work, but makes people's 
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryavansh19&repo=your-repo-name&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/aryavansh19/your-repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryavansh19&repo=ALPHA&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/aryavansh19/ALPHA)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aryavansh19&repo=another-repo&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/aryavansh19/another-repo)
 
 </div>
