@@ -136,8 +136,11 @@ and getting comfortable with infrastructure as code.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryavansh19&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C8EFF&icon_color=6C8EFF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryavansh19&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C8EFF&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryavansh19&theme=github_dark" alt="Profile summary" />
+
+<img width="41%" src="https://streak-stats.demolab.com?user=aryavansh19&theme=github-dark-blue&hide_border=true&border_radius=8" alt="Commit streak" />
+<img width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryavansh19&theme=github_dark" alt="Repos per language" />
+<img width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryavansh19&theme=github_dark" alt="Most committed language" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=aryavansh19&hide_border=true&bg_color=0D1117&color=6C8EFF&line=6C8EFF&point=C9D1D9&area=true" alt="Contribution graph" />
 
