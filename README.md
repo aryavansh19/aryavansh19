@@ -1,96 +1,161 @@
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B9D&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aryavansh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8;Welcome+to+My+Digital+Playground+%F0%9F%8C%9F" alt="Dynamic Typing" />
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=6C8EFF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Aryavansh+Saini;Full+Stack+Developer;I+build+AI+tools+that+ship+to+production;Code.+Create.+Repeat." alt="Aryavansh Saini" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryavansh19&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/aryavansh19?style=for-the-badge&color=orange&labelColor=282828" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/aryavansh19?style=for-the-badge&color=yellow&labelColor=282828" alt="Stars" />
-</p>
+**Full Stack Developer** · India 🇮🇳 · Building AI-powered products end to end
 
-## 🎯 About Me
-Hey there! I'm **Aryavansh Saini**, a passionate Full Stack Developer from India 🇮🇳 who loves turning ideas into reality through code. My journey in tech is driven by a fascination with **AI and automation** - I believe technology should make our lives easier and more magical.
+I like problems where the hard part isn't the UI — document understanding, retrieval,
+geospatial data, automation. My favourite work runs in production, not just on localhost.
 
-My goal is simple: create technology that doesn't just work, but makes people's lives genuinely better. Whether it's a sleek web application or an AI-powered automation tool, I pour my passion into every line of code.
+<a href="https://www.linkedin.com/in/aryavanshsaini/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:aryavansh.120@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.docsflow.tech">
+  <img src="https://img.shields.io/badge/Live_Project-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live project" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=aryavansh19&style=for-the-badge&color=6C8EFF&label=PROFILE+VIEWS" alt="Profile views" />
 
-**🚀 Currently:**
-- 🔭 Working on **AI-powered automation tools**
-- 🌱 Learning **Machine Learning** and **Cloud Technologies**
-- 🎯 Building solutions that make life easier
-- 💡 Exploring **new tech innovations**
-- 🎵 Coding to **Lo-fi beats & Tech House**
-- 📫 Always open to collaborate: **aryavansh.120@gmail.com**
+</div>
 
+---
 
-## 🛠️ Tech Arsenal
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,dart,react,html,css,tailwind,bootstrap,materialui&theme=dark&perline=12" height="50" />
-</p>
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgresql,flutter,androidstudio,kotlin,git,github,vscode&theme=dark&perline=12" height="50" />
-</p>
+> Every project below is deployed and clickable — not a screenshot.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,docker,vercel,tensorflow,pytorch,aws,gcp&theme=dark&perline=7" height="50" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 📊 GitHub Analytics
+### 📄 [DocsFlow](https://github.com/aryavansh19/Docs-Manager)
+**[docsflow.tech →](https://www.docsflow.tech)**
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryavansh19&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=FFFFFF" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryavansh19&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryavansh19&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF" width="100%" />
-</p>
+Forward any document to WhatsApp and it gets read, named from its
+contents, and filed into the right Google Drive folder. Ask for it
+later in plain language and it comes back.
 
-## 🏆 GitHub Trophies
+Runs OCR, embeddings, CLIP and a cross-encoder re-ranker **locally on
+CPU** — no third-party LLM, no per-token cost. Hybrid search fuses
+full-text and vector retrieval, then re-ranks.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryavansh19&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
+`FastAPI` `React` `Postgres + pgvector` `WhatsApp API` `Google Drive` `AWS`
 
-## 🐍 Contribution Snake
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aryavansh19/aryavansh19/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
+### 🌊 [FloodGuard](https://github.com/aryavansh19/floodguard-ai-watch)
+**[floodguard →](https://floodguard-roan.vercel.app)**
 
-## 🌐 Connect & Collaborate
+AI-assisted flood monitoring and early-warning interface, turning
+environmental signals into something a non-expert can act on.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aryavanshsaini/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="40"/>
-  </a>
-  <a href="mailto:aryavansh.120@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="40"/>
-  </a>
-  <a href="https://instagram.com/aryavansh.19" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" height="40"/>
-  </a>
-  <a href="https://x.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" height="40"/>
-  </a>
-  <a href="https://aryavansh.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF6B9D" height="40"/>
-  </a>
-</p>
+`TypeScript` `React` `AI`
 
+<br />
 
-## 💖 Support My Work
+### 🌳 [Forest Rights AI Map](https://github.com/aryavansh19/forest-rights-ai-map)
+**[forestrightact →](https://forestrightact.vercel.app)**
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/aryavansh19" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</p>
+Interactive mapping tool for forest rights claims, making
+land-rights data legible and searchable.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%" />
-</p>
+`TypeScript` `Geospatial` `React`
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%AD%90;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Footer" />
-</h3>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 [AniClaw](https://github.com/aryavansh19/AniClaw)
+**[aniclaw →](https://aniclaw.vercel.app)**
+
+Anime discovery app with a focus on a fast, clean browsing
+experience.
+
+`TypeScript` `React`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [AI Space](https://github.com/aryavansh19/aryavansh-ai-space)
+**[aryavansh-ai-space →](https://aryavansh-ai-space.vercel.app)**
+
+A playground for AI experiments and interface ideas.
+
+`TypeScript` `AI`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+Also here: [**CampusLink**](https://github.com/aryavansh19/campuslink) (Flutter) ·
+[**ALPHA**](https://github.com/aryavansh19/ALPHA) (Gemini-powered) ·
+[**DSA Visualizer**](https://github.com/aryavansh19/dsa-visualizer-main) ·
+[**Scheduling Algorithms**](https://github.com/aryavansh19/SchedullingAlgorithm)
+
+</div>
+
+---
+
+## 🛠️ What I Build With
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,swift,dart,java&theme=dark&perline=7" height="46" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,flutter&theme=dark&perline=6" height="46" />
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,supabase,mongodb,firebase&theme=dark&perline=7" height="46" />
+
+**Infrastructure & Tools**
+
+<img src="https://skillicons.dev/icons?i=aws,vercel,docker,nginx,git,github,linux,figma&theme=dark&perline=8" height="46" />
+
+</div>
+
+**Currently working with:** local inference on CPU (ONNX, FastEmbed, CLIP, RapidOCR),
+pgvector for hybrid retrieval, and deploying Python services on AWS EC2 behind Nginx.
+
+**Learning next:** distributed job processing, evaluation harnesses for retrieval quality,
+and getting comfortable with infrastructure as code.
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryavansh19&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C8EFF&icon_color=6C8EFF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryavansh19&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C8EFF&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=aryavansh19&hide_border=true&bg_color=0D1117&color=6C8EFF&line=6C8EFF&point=C9D1D9&area=true" alt="Contribution graph" />
+
+<img src="https://raw.githubusercontent.com/aryavansh19/aryavansh19/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Open to internships, freelance work and collaboration
+
+If you're building something in AI, document intelligence or developer tooling,
+I'd genuinely like to hear about it.
+
+**[aryavansh.120@gmail.com](mailto:aryavansh.120@gmail.com)** ·
+**[LinkedIn](https://www.linkedin.com/in/aryavanshsaini/)** ·
+**[Instagram](https://instagram.com/aryavansh.19)**
+
+</div>
